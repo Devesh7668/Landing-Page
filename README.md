@@ -19,7 +19,7 @@ A responsive and modern landing page built using **HTML, CSS, and JavaScript**. 
 
 ## Live Demo
 
-(http://127.0.0.1:5500/index.html)(#) to view the live demo of the landing page.
+(http://127.0.0.1:5500/index.html) to view the live demo of the landing page.
 
 ## Installation & Usage
 
